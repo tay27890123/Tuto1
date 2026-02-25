@@ -22,7 +22,7 @@ Bachelor of Economics | University Malaya
 - Calculated employment gap between Degree and Non-degree holders
 - Created beautiful visualizations
 
-**Status**: Learning project completed (Visualization stage)
+
 
 ##  How to Run
 ```bash

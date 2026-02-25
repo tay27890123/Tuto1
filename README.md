@@ -24,9 +24,6 @@ Bachelor of Economics | University Malaya
 
 **Status**: Learning project completed (Visualization stage)
 
-##  Sample Visualizations
-![alt text](image.png)
-
 ##  How to Run
 ```bash
 pip install -r requirements.txt

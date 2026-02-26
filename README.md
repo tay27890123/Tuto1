@@ -18,7 +18,7 @@ Bachelor of Economics | University Malaya
 - Jupyter Notebook in VS Code
 
 ##  Project Highlights
-- Generated 70 rows of synthetic employment data (7 countries × 5 years × 2 education levels)
+- Generated 100 rows of synthetic employment data (10 countries(ASEAN) × 5 years × 2 education levels)
 - Calculated employment gap between Degree and Non-degree holders
 - Created beautiful visualizations
 
